@@ -2,7 +2,6 @@ import React from "react";
 import "./NavBar.css";
 
 function NavBar() {
-
     return (
         <nav className="navbar">
             <ul>
@@ -12,23 +11,13 @@ function NavBar() {
                     </span>
                 </a></li>
 
-                <li><a href="#about"><span className="material-icons"  >
+                <li><a href="#socialmedia"><span className="material-icons"  >
                     person
-                </span>
-                </a></li>
-
-                <li><a href="#portfolio"><span className="material-icons">
-                    photo_library
                 </span>
                 </a></li>
 
                 <li><a href="#services"><span className="material-icons">
                     business
-                </span>
-                </a></li>
-
-                <li><a href="#mech"><span className="material-icons">
-                    shopping_cart
                 </span>
                 </a></li>
 

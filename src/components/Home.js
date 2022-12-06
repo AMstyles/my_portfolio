@@ -7,7 +7,7 @@ export default function Home() {
             <section id="home">
                 <div className="main">
                     <h1 className="headings"> I  AM</h1>
-                    <h1 className="headings"> ARINAHO MULEBA </h1>
+                    <h1 className="headings"> <span className="gradient-text-home1" >ARINAHO MULEBA </span></h1>
                     <button className="btn">
                         Hire me
                     </button>

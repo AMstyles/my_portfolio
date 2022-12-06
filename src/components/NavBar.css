@@ -31,3 +31,13 @@
     color: black;
     box-shadow: 0 0 10px white;
 }
+
+@media screen and (max-width: 960px) {
+    .navbar {
+        display: none
+    }
+    .navbar ul li a {
+        font-size: 1.5rem;
+    }
+}
+
